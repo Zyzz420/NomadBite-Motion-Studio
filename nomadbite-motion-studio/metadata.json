@@ -1,0 +1,8 @@
+
+{
+  "name": "NomadBite Motion Studio",
+  "description": "Animate your culinary photos into cinematic videos. Turn static moments into moving stories with the power of NomadBite and Gemini Veo 3.1.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
